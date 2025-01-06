@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianasn11&label=Profile%20views&color=0e75b6&style=flat" alt="dianasn11" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Anyone person interested in learning programation**
-
-- 📫 How to reach me **najerashareni@gmail.com**
-
-- ⚡ Fun fact **My favorite movie is Pride and Prejudice.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diana shareni sotero nájera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana shareni sotero nájera" height="30" width="40" /></a>
